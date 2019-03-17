@@ -5,9 +5,8 @@ Forked from repository: https://github.com/sebseb7/cryptonote-proxy
 
 ## Basic Instructions
 https://nodejs.org/
-1. install node.js 
-            curl -sL https://deb.nodesource.com/setup_11.x | sudo -E bash -
-            sudo apt-get install -y nodejs
+1. curl -sL https://deb.nodesource.com/setup_11.x | sudo -E bash -
+1. sudo apt-get install -y nodejs
 1. install libraries with "npm i ."
 1. adjust config.json
 1. start with "node proxy.js"

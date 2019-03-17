@@ -4,7 +4,7 @@ Forked from repository: https://github.com/sebseb7/cryptonote-proxy
 ![CryoptonoteUI](https://images2.imgbox.com/7d/3e/A8slRmiN_o.png)
 
 ## Basic Instructions
-https://nodejs.org/
+For installing on Ubuntu 18.10
 1. curl -sL https://deb.nodesource.com/setup_11.x | sudo -E bash -
 1. sudo apt-get install -y nodejs
 1. install libraries with "npm i ."

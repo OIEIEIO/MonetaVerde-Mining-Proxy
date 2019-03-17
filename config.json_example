@@ -15,28 +15,29 @@
 	{
 		"userA":[
 			{
-				"symbol":"itns",
-				"algo":"",
-				"name":"izlkfjdflkjgdlfkgjdflkgjdlkfgj",
-				"host":"45.32.171.89",
-				"port":"9999",
-				"url":"http://dummypool.com",
-				"api":"http://a.x.y.z/api",
+				"symbol":"MCNcommunity",
+				"isdefault":true,
+				"algo":"cn/0",
+				"name":"VduCX12XPYq36W4R2MsSJF7htpg5GgdvQVeE2RtkGmPnGhHWP56uiuZcTppcPCpEpo94tFNwCWjiJ5qihnLK3jKZ2DP8EnHdp",
+				"host":"monetaverde.minercountry.com",
+				"port":"3333",
+				"url":"https://monetaverde.minercountry.com/",
+				"api":"https://monetaverde.minercountry.com:8443",
 				"ticker": {
-					"marketname": "btc-itns"
+					"marketname": "btc-ird"
 				}
 			},
 			{
-				"symbol":"solace",
-				"isdefault":true,
-				"name":"solilklkdlkdlkldkldkldkldkldkldkdlkdlkdlkl",
-				"host":"78.47.92.206",
-				"port":"9999",
-				"url":"http://dummypool.com",
-				"api":"http://a.x.y.z/api",
+				"symbol":"MCNtarmgas",
+				"isdefault":false,
+				"name":"VduCX12XPYq36W4R2MsSJF7htpg5GgdvQVeE2RtkGmPnGhHWP56uiuZcTppcPCpEpo94tFNwCWjiJ5qihnLK3jKZ2DP8EnHdp.100",
+				"host":"dyngepeng.zapto.org",
+				"port":"3131",
+				"url":"http://dyngepeng.zapto.org/MCN/",
+				"api":http://dyngepeng.zapto.org:3130",
 				"passwordtemplate": "w:{%1}",
 				"ticker": {
-					"marketname": "ltc-solace",
+					"marketname": "btc-ird",
 					"converttobtc": "btc-ltc"
 				}
 			}
